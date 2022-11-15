@@ -1,0 +1,16 @@
+div{
+    background-image: url(koala.png);
+    width: 100vw;
+    height: 100vh;
+    background-size: 70px;
+    padding: 70px;
+}
+h1{
+    background-color: aliceblue;
+    width: 250px;
+    height: 90px;
+    font-size: 6rem;
+    color: red;
+    margin: 0 auto;
+    text-align: center;
+}
